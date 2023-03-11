@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" width="200" />
   </div>
   <div align="center">
-  <a href="" /> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.linkedin.com/in/marek-kami%C5%84ski-2b8a77220/" /> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a>
 </div>
 
 ---

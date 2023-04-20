@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" />

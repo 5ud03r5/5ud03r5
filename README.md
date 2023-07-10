@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 
 <div>🔭 I'm currently looking for Open Source projects to contribute </div>
-<div>🌱 Working as a Security Engineer, evolving my programming skills in free time </div>
+<div>🌱 Working as a Application developer, mostly on backend side </div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
